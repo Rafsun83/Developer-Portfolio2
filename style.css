@@ -1,0 +1,63 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+
+.flexible-container{
+    display: flex;
+    background-image: linear-gradient(RoyalBlue,DeepSkyBlue,skyblue);
+    
+    
+
+    
+}
+h1{
+    color:white;
+    font-size: 40px;
+}
+
+.back-part{
+  width: 50%;
+  padding-left: 20px;
+  padding-top: 30px;
+ 
+
+}
+.back-part img{
+  width: 80%; 
+}
+.front-text{
+    padding: 15%;
+}
+.text-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color:white;
+    font-weight: 400;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.experiances-area{
+    display: flex;
+    margin-top: 10px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+   
+   
+}
+.text-decor{
+    box-shadow: 10px 10px 40px gray;
+    width: 35%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    border-radius: 5px;
+   
+}
+.text-color{
+    color: orange;
+}
+footer{
+    text-align: center;
+}
